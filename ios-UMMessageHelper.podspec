@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "brivio-ios-UMMessageHelper"
+  s.name             = "ios-UMMessageHelper"
   s.version          = "0.1.0"
   s.summary          = "umeng message for ios development"
 
